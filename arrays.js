@@ -4,4 +4,5 @@ var chocolateBars = [
   'kitkat',
   'skittles'
   ]
-  
+
+function 
